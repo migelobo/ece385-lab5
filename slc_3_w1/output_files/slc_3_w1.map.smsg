@@ -1,0 +1,7 @@
+Warning (10273): Verilog HDL warning at HexDriver.sv(23): extended using "x" or "z" File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 2/logic_processor_4bit/HexDriver.sv Line: 23
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Run" differs only in case from object "RUN" in the same scope File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/Lab5provided_sp2021/slc3_sramtop.sv Line: 7
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Continue" differs only in case from object "CONTINUE" in the same scope File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/Lab5provided_sp2021/slc3_sramtop.sv Line: 7
+Warning (10273): Verilog HDL warning at tri_state_mux.sv(18): extended using "x" or "z" File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/slc_3_w1/tri_state_mux.sv Line: 18
+Warning (10273): Verilog HDL warning at PC_modules.sv(13): extended using "x" or "z" File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/slc_3_w1/PC_modules.sv Line: 13
+Warning (10273): Verilog HDL warning at PC_modules.sv(14): extended using "x" or "z" File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/slc_3_w1/PC_modules.sv Line: 14
+Warning (10273): Verilog HDL warning at PC_modules.sv(15): extended using "x" or "z" File: C:/Users/migel/Documents/Fall 2022/ECE 385/ECE 385 Lab 5/slc_3_w1/PC_modules.sv Line: 15

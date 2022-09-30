@@ -1,0 +1,9 @@
+module reg_file(
+	input logic [2:0] DRMUX_result,SR1MUX_result, SR2
+	input logic LD_REG
+					
+	
+
+);
+
+endmodule 

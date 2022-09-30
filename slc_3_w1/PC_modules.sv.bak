@@ -1,0 +1,28 @@
+module PC_mux(
+	input logic  [1:0] PCMUX,
+	input logic  [15:0] PC_plus, bus_data, MARMUX_in,
+	output logic [16:] PC_out
+);
+
+	assign PC_plus = PC_plus + 1;
+	
+	unique case(PCMUX)
+	2'b00: PC_out = PC_plus;
+	2'b01: ;	
+	2'b10: ; 
+	2'b11: ;
+	endcase 
+
+endmodule
+
+module PC_reg(
+	input logic  [15:0] PC_in,
+	input logic  LD_PC,
+	output logic [15:0] PC_out
+);
+
+if(LD_PC)
+	PC_out = PC_in;
+
+endmodule 
+

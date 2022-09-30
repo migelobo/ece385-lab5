@@ -1,0 +1,6 @@
+module tri_state_mux(
+
+	input GateMDR
+
+);
+endmodule 

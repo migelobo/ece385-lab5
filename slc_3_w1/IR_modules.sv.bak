@@ -1,0 +1,13 @@
+module IR_register(
+	input logic  [15:0] IR_in,
+	input logic  LD_IR,
+	input logic  [16:0] IR_out //change this with switches if needed
+)
+
+always_comb
+begin
+	if(LD_IR)
+		IR_in = IR_out
+end
+
+endmodule 
